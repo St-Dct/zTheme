@@ -29,9 +29,9 @@ zTheme is a powerful and lightweight utility designed to help users install cust
 
 ### Localization
 Want to see zTheme in your language? We use a simple YAML localization system.
-1. Download the [template.yaml](https://github.com/St-Dct/zTheme/blob/87fba2e19c24305c424782ef007e59a626f0a7f4/app/src/main/assets/localization/template.yaml).
+1. Download the [template.yaml](Localization/Template.yaml).
 2. Follow the instructions inside the file to translate the strings.
-3. Import your finished `<language>.yaml` in app settings and send this file to me in telegram to make language built-in!
+3. Import your finished `<language>.yaml` in app settings and send this file to me in telegram or make pull-request to make language built-in!
 
 ### Where can I get custom themes?
 - In some telegram groups
