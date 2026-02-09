@@ -16,8 +16,7 @@ home: "Home"
 editor: "Editor"
 settings: "Settings"
 
-# Settings Screen
-# WHERE: Headings and labels inside the Settings tab.
+# Settings Screen. Headings and labels inside the Settings tab.
 language: "Language"                # Header for the language selection list
 experimental: "Experiments"         # Section for experiments
 about: "About"                      # Header for the About selection list
@@ -32,13 +31,12 @@ itzImported: ".itz was imported"     # Notification after successful file copy
 itzRemoved: "removed from app"       # Notification when theme is hidden from list
 itzDeleted: " "      # keep this string clear
 
-# Theme Context Menu appearing after LONG PRESS on a theme card.
+# Theme Context Menu appearing after long press on a theme card.
 goToFile: "Go to file"              # Action to open the file location in file explorer
 share: "Share"                      # Action to send the file to another app
 delete: "Delete"                    # Action to remove the theme from app
 
-# Theme Preview & Installation
-# WHERE: Screen shown after clicking a theme card.
+# Theme Preview & Installation. In Screen shown after clicking a theme card.
 applyTheme: "Apply the theme"       # buttion for open 'apply options' with 2 methods (fast and full)
 applyOptions: "Apply Options" # Title for the method selection panel for installing theme.
 quickApply: "Quick Test"            # Method 1: Temporary/Fast apply
@@ -107,7 +105,17 @@ updateAndApply: "Update & Apply"    # Action: final execution
 # Experimental Settings. In : Settings -> Experiments
 directDeleteTitle: "Direct Delete"   # Feature name
 directDeleteDesc: "Enable special button" # Feature description
+directDeleteHelpersTitle: "Uninstall tools" # Uninstallation of Yozo/Docs
+directDeleteHelpersDesc: "Fast removal"     # Description
 forceUninstall: "Force Uninstall"   # Dangerous action header
 forceUninstallDesc: "Remove via system" # Warning: bypasses standard checks
 altStep4Title: "Alt Launch"          # Alternative way to open the editor
 altStep4Desc: "Open as plain text"   # Description for alternative method
+
+# Update Manager & Dialogs
+updateAvailable: "Update Available"  # Title for update dialog
+download: "Download"                # Action button to start download
+later: "Later"                     # Action button to dismiss dialog
+error: "Error"                      # Title for error dialogs
+ok: "OK"                            # Generic dismissal button
+permissionRequest: "Please grant all permissions for the app to work correctly."
