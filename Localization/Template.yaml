@@ -1,0 +1,121 @@
+# ==========================================================
+# zTheme localization template
+# ==========================================================
+# Instructions:
+# 1. rename it to <text>.yaml (e.g., bomb.yaml).
+# 2. Modify only the text inside the quotes on the right side of the colon.
+# 3. The language_code must be unique.
+# you can use "\n"
+# for this ^^^
+
+# System Information. Unique identifier for the language. Used internally and shown in the language picker.
+language_code: "custom_language_code"
+
+appName: "zTheme"
+home: "Home"
+editor: "Editor"
+settings: "Settings"
+
+# Settings Screen. Headings and labels inside the Settings tab.
+language: "Language"                # Header for the language selection list
+experimental: "Experiments"         # Section for experiments
+about: "About"                      # Header for the About selection list
+devWith: "By dimit. All rights reserved." # Copyright
+version: "Version"                  # Label appearing before the build number
+description: "Custom theme manager for Vivo/IQOO devices." # Short bio under app title
+
+# Home Screen & Search text on the main gallery.
+search: "Search themes..."           # Hint text inside the search input field
+importCustomTheme: "Import theme"    # Action button to pick an .itz file from storage
+itzImported: ".itz was imported"     # Notification after successful file copy
+itzRemoved: "removed from app"       # Notification when theme is hidden from list
+itzDeleted: " "      # keep this string clear
+
+# Theme Context Menu appearing after long press on a theme card.
+goToFile: "Go to file"              # Action to open the file location in file explorer
+share: "Share"                      # Action to send the file to another app
+delete: "Delete"                    # Action to remove the theme from app
+
+# Theme Preview & Installation. In Screen shown after clicking a theme card.
+applyTheme: "Apply the theme"       # buttion for open 'apply options' with 2 methods (fast and full)
+applyOptions: "Apply Options" # Title for the method selection panel for installing theme.
+quickApply: "Quick Test"            # Method 1: Temporary/Fast apply
+quickApplyDesc: "Simplified installation method" # Description for Method 1
+fullGuide: "Full Installation"      # Method 2: Permanent/Manual application
+fullGuideDesc: "Step-by-step manual process" # Description for Method 2
+themeFileMissing: "iTheme folder not found" # Error when system theme directory is hidden
+
+# Generic UI Elements
+# WHAT: Small labels used in buttons and wizards.
+step: "Step"                        # Label for progress (e.g., Step 1)
+of: "of"                            # Connector for progress (e.g., 1 of 8)
+next: "Next"                        # Button to proceed
+back: "Back"                        # Button to go to previous screen
+done: "Done"                        # Button to close a finished task
+finish: "Finish"                    # Final button in a wizard
+complete: "Complete"                # Status text for a finished process
+themeInstalled: "Theme installed."   # Success message at the end of the guide
+
+# Instructions inside the 'Full Installation' guide. Keep these short and instructional.
+step1Title: "iTheme Prep"           
+step1Desc: "Install iTheme v10"      # Requirement: specific app version
+step1Current: "Current version"      # Label showing installed version
+step1Need: "Need version 10"         # Label showing required version
+step1Important: "DELETE iTheme!"     # Urgent warning: must uninstall updates
+installV10: "Install v10"           # Action: trigger APK installation
+ithemeSettings: "iTheme Settings"   # Action: open system app settings
+deleteIThemeExp: "Delete iTheme"    # Action: uninstall current iTheme
+
+step2Title: "Tools"                 
+step2Desc: "Install tools"         # Installing specific tools versions
+yozo: "Yozo"                        # Proper name: Yozo Office
+docs: "Docs"                        # Proper name: Vivo Docs
+
+step3Title: "Download Theme"        
+step3Desc: "Download cat theme"      # Instruction to find a theme in iTheme
+step3Important: "DO NOT APPLY!"      # Warning: download only, do not apply theme
+openITheme: "Open iTheme"           # Action: launch the theme page in iTheme
+
+step4Title: "Edit in Docs"          
+step4Desc: "Add a space in file"     # Instruction: modify file to trick the system
+step4Important: "Do not save yet"    # Warning: keep the file open
+openInDocs: "Open in Docs"          # Action: open the theme in editor
+openMethod1: "Method 1"             
+openMethod2: "Method 2"             
+
+step5Title: "Deletion"              
+step5Desc: "Delete from iTheme"      # Instruction: remove theme inside iTheme
+step5Important: "Only delete!"       # Warning: do not perform other actions
+openToDelete: "Open to delete"      # Action: launch iTheme theme screen for delete theme
+
+step6Title: "Saving"                
+step6Important: "Now SAVE changes"   # Instruction: go back to Docs and click save
+saved: "Saved"                      # Confirmation button
+
+step7Title: "Download Again"        
+step7Desc: "Redownload theme"        # Instruction: trigger download of the same theme
+step7Important: "Wait for finish"    # Warning: wait for 100% progress
+downloaded: "Downloaded"            # Confirmation button
+
+step8Title: "Replace"               
+step8Desc: "Applying custom itz"    # Final step: replace system file with custom one
+step8Important: "Last step"          
+updateAndApply: "Update & Apply"    # Action: final execution
+
+# Experimental Settings. In : Settings -> Experiments
+directDeleteTitle: "Direct Delete"   # Feature name
+directDeleteDesc: "Enable special button" # Feature description
+directDeleteHelpersTitle: "Uninstall tools" # Uninstallation of Yozo/Docs
+directDeleteHelpersDesc: "Fast removal"     # Description
+forceUninstall: "Force Uninstall"   # Dangerous action header
+forceUninstallDesc: "Remove via system" # Warning: bypasses standard checks
+altStep4Title: "Alt Launch"          # Alternative way to open the editor
+altStep4Desc: "Open as plain text"   # Description for alternative method
+
+# Update Manager & Dialogs
+updateAvailable: "Update Available"  # Title for update dialog
+download: "Download"                # Action button to start download
+later: "Later"                     # Action button to dismiss dialog
+error: "Error"                      # Title for error dialogs
+ok: "OK"                            # Generic dismissal button
+permissionRequest: "Please grant all permissions for the app to work correctly."
