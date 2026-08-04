@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/zLogo.png" width="450" alt="zTheme Logo">
+  <img src="imgs/zLogo.png" height="250" alt="zTheme Logo">
 </p>
 <p align="center">
   <strong>Advanced Theme Manager for Vivo/iQOO devices.</strong>
@@ -13,6 +13,8 @@ zTheme is a powerful and lightweight utility designed to help users install cust
   <img src="imgs/import_preview.jpg" width="150">
   <img src="imgs/lockscreen_editor_preview.jpg" width="150">
   <img src="imgs/preview1.jpg" width="150">
+  </p>
+  <p align="center">
   <img src="imgs/preview2.jpg" width="150">
   <img src="imgs/editor_preview.jpg" width="150">
   <img src="imgs/tweaks_preview.jpg" width="150">
