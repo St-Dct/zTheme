@@ -5,9 +5,9 @@
   <strong>Advanced Theme Manager for Vivo/iQOO devices.</strong>
 </p>
 
-zTheme is a powerful and lightweight utility designed to help users install custom `.itz` themes on Vivo and iQOO devices running OriginOS 4/5/6 (OOS6 only before January patch). It simplifies the hard process of importing custom theme by providing guided step-by-step instructions.
+zTheme is a powerful and lightweight utility designed to help users install custom `.itz` themes on Vivo and iQOO devices running OriginOS 4/5/6. It simplifies the hard process of importing custom theme by providing guided step-by-step instructions. And theme editor.
 
-### 📸 Screenshots
+### Screenshots
 <p align="center">
   <img src="imgs/home_preview.jpg" width="150">
   <img src="imgs/preview1.jpg" width="150">
@@ -22,10 +22,12 @@ zTheme is a powerful and lightweight utility designed to help users install cust
 - **UI:** Interface built with Jetpack Compose and MD3.
 
 ### Not complate\TODO:
-- Way to use custom themes in new OriginOS 6 January+ patch.
-- Theme editor.
+- Wiki
+- Themes\Fonts AutoInstall
+- Merge emojis into font
 - Online Theme gallery. (will be based by firebase)
-- Stealing themes from iTheme.
+- More converters
+- Improve QOL for theme editor
 
 ### Localization
 Want to see zTheme in your language? We use a simple YAML localization system.
