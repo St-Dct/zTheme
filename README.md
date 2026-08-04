@@ -11,8 +11,9 @@ zTheme is a powerful and lightweight utility designed to help users install cust
 <p align="center">
   <img src="imgs/home_preview.jpg" width="150">
   <img src="imgs/import_preview.jpg" width="150">
-  <img src="imgs/theme_preview1.jpg" width="150">
-  <img src="imgs/theme_preview2.jpg" width="150">
+  <img src="imgs/lockscreen_editor_preview.jpg" width="150">
+  <img src="imgs/preview1.jpg" width="150">
+  <img src="imgs/preview2.jpg" width="150">
   <img src="imgs/editor_preview.jpg" width="150">
   <img src="imgs/tweaks_preview.jpg" width="150">
   <img src="imgs/settings_preview.jpg" width="150">
