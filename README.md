@@ -10,8 +10,11 @@ zTheme is a powerful and lightweight utility designed to help users install cust
 ### Screenshots
 <p align="center">
   <img src="imgs/home_preview.jpg" width="150">
-  <img src="imgs/preview1.jpg" width="150">
-  <img src="imgs/preview2.jpg" width="150">
+  <img src="imgs/import_preview.jpg" width="150">
+  <img src="imgs/theme_preview1.jpg" width="150">
+  <img src="imgs/theme_preview2.jpg" width="150">
+  <img src="imgs/editor_preview.jpg" width="150">
+  <img src="imgs/tweaks_preview.jpg" width="150">
   <img src="imgs/settings_preview.jpg" width="150">
 </p>
 
@@ -39,6 +42,7 @@ Want to see zTheme in your language? We use a simple YAML localization system.
 - In some telegram groups
 - **[iQOO 13 hype](https://t.me/IQOO13Hype) and [Lover's repo](https://t.me/OriginOS_Themes)**
 - **[OOSApps](https://t.me/OOSApps)**
+- **[OriginOS Utilities](https://t.me/oosthemes)**
 - Also you can search it on bilibili, wechat, pan.quark and etc.
 - **[Weazn on bilibili](https://space.bilibili.com/67368617)**
 ---
